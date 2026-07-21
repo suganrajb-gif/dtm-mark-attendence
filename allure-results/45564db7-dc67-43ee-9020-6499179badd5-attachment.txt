@@ -1,0 +1,7 @@
+✅ Step 1 — Logged in
+✅ Step 2 — Task Management clicked
+✅ Step 3 — Attendance menu opened
+✅ Step 4 — Class Attendance page loaded
+✅ Step 5 — Faculty Id selected: SURESH RAMAN
+✅ Step 6 — Type selected: ATTENDANCE ENTRY
+✅ All steps passed

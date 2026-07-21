@@ -1,0 +1,154 @@
+✅ Step 1 — Logged in
+✅ Step 2 — Task Management clicked
+✅ Step 3 — Attendance menu opened
+✅ Step 4 — Class Attendance page loaded
+✅ Step 5 — Faculty Id selected: RAVI SHANKAR
+✅ Step 6 — Type selected: ATTENDANCE ENTRY
+✅ Step 7 — Go button clicked — Attendance calendar loaded
+✅ Step 1 — Month view activated
+  ← Navigated to: June 2026
+✅ Step 2 — First unattended month: June 2026 (4 red blocks)
+
+─── Block #1 — Present: 70% / Absent: 30% ───
+✅ Clicked: "08:00 AM - 09:00 AM - D5
+AI3461-DATA STRUCTURES LABORATORY"
+✅ "Mark Attendance" clicked
+  20 student(s) found
+  Student 1: → Absent ❌  (was present last time)
+  Student 2: Present (kept)
+  Student 3: → Absent ❌  (was present last time)
+  Student 4: → Absent ❌  (was present last time)
+  Student 5: Present (kept)
+  Student 6: Present (kept)
+  Student 7: Present (kept)
+  Student 8: Present (kept)
+  Student 9: Present (kept)
+  Student 10: → Absent ❌  (was present last time)
+  Student 11: Present (kept)
+  Student 12: → Absent ❌  (was present last time)
+  Student 13: Present (kept)
+  Student 14: Present (kept)
+  Student 15: Present (kept)
+  Student 16: Present (kept)
+  Student 17: → Absent ❌  (was present last time)
+  Student 18: Present (kept)
+  Student 19: Present (kept)
+  Student 20: Present (kept)
+  Present: 14 | Absent: 6 | Absent students: [10,1,12,17,4,3]
+  Previously absent (excluded this round): []
+✅ Bottom Save clicked
+✅ Summary modal Save clicked
+  Faculty re-selected: RAVI SHANKAR
+  Type re-selected: ATTENDANCE ENTRY
+  Go clicked — calendar loaded
+  Back on: June 2026
+✅ Calendar reloaded with filters — checking for more red blocks
+
+─── Block #2 — Present: 60% / Absent: 40% ───
+✅ Clicked: "08:00 AM - 09:00 AM - D3
+AI3461-DATA STRUCTURES LABORATORY"
+✅ "Mark Attendance" clicked
+  20 student(s) found
+  Student 1: Present (kept)
+  Student 2: → Absent ❌  (was present last time)
+  Student 3: Present (kept)
+  Student 4: Present (kept)
+  Student 5: → Absent ❌  (was present last time)
+  Student 6: Present (kept)
+  Student 7: → Absent ❌  (was present last time)
+  Student 8: → Absent ❌  (was present last time)
+  Student 9: Present (kept)
+  Student 10: Present (kept)
+  Student 11: Present (kept)
+  Student 12: Present (kept)
+  Student 13: → Absent ❌  (was present last time)
+  Student 14: Present (kept)
+  Student 15: → Absent ❌  (was present last time)
+  Student 16: → Absent ❌  (was present last time)
+  Student 17: Present (kept)
+  Student 18: → Absent ❌  (was present last time)
+  Student 19: Present (kept)
+  Student 20: Present (kept)
+  Present: 12 | Absent: 8 | Absent students: [13,5,15,2,8,16,18,7]
+  Previously absent (excluded this round): [10,1,12,17,4,3]
+✅ Bottom Save clicked
+✅ Summary modal Save clicked
+  Faculty re-selected: RAVI SHANKAR
+  Type re-selected: ATTENDANCE ENTRY
+  Go clicked — calendar loaded
+  Back on: June 2026
+✅ Calendar reloaded with filters — checking for more red blocks
+
+─── Block #3 — Present: 80% / Absent: 20% ───
+✅ Clicked: "09:00 AM - 10:00 AM - D4
+AI3457-DATA STRUCTURES"
+✅ "Mark Attendance" clicked
+  20 student(s) found
+  Student 1: Present (kept)
+  Student 2: Present (kept)
+  Student 3: → Absent ❌  (was present last time)
+  Student 4: Present (kept)
+  Student 5: Present (kept)
+  Student 6: Present (kept)
+  Student 7: Present (kept)
+  Student 8: Present (kept)
+  Student 9: Present (kept)
+  Student 10: → Absent ❌  (was present last time)
+  Student 11: Present (kept)
+  Student 12: → Absent ❌  (was present last time)
+  Student 13: Present (kept)
+  Student 14: Present (kept)
+  Student 15: Present (kept)
+  Student 16: Present (kept)
+  Student 17: Present (kept)
+  Student 18: Present (kept)
+  Student 19: Present (kept)
+  Student 20: → Absent ❌  (was present last time)
+  Present: 16 | Absent: 4 | Absent students: [12,20,3,10]
+  Previously absent (excluded this round): [13,5,15,2,8,16,18,7]
+✅ Bottom Save clicked
+✅ Summary modal Save clicked
+  Faculty re-selected: RAVI SHANKAR
+  Type re-selected: ATTENDANCE ENTRY
+  Go clicked — calendar loaded
+  Back on: June 2026
+✅ Calendar reloaded with filters — checking for more red blocks
+
+─── Block #4 — Present: 70% / Absent: 30% ───
+✅ Clicked: "08:00 AM - 09:00 AM - D5
+AI3461-DATA STRUCTURES LABORATORY"
+✅ "Mark Attendance" clicked
+  20 student(s) found
+  Student 1: → Absent ❌  (was present last time)
+  Student 2: → Absent ❌  (was present last time)
+  Student 3: Present (kept)
+  Student 4: Present (kept)
+  Student 5: Present (kept)
+  Student 6: Present (kept)
+  Student 7: → Absent ❌  (was present last time)
+  Student 8: Present (kept)
+  Student 9: Present (kept)
+  Student 10: Present (kept)
+  Student 11: Present (kept)
+  Student 12: Present (kept)
+  Student 13: Present (kept)
+  Student 14: → Absent ❌  (was present last time)
+  Student 15: Present (kept)
+  Student 16: → Absent ❌  (was present last time)
+  Student 17: → Absent ❌  (was present last time)
+  Student 18: Present (kept)
+  Student 19: Present (kept)
+  Student 20: Present (kept)
+  Present: 14 | Absent: 6 | Absent students: [7,1,2,17,16,14]
+  Previously absent (excluded this round): [12,20,3,10]
+✅ Bottom Save clicked
+✅ Summary modal Save clicked
+  Faculty re-selected: RAVI SHANKAR
+  Type re-selected: ATTENDANCE ENTRY
+  Go clicked — calendar loaded
+  Back on: June 2026
+✅ Calendar reloaded with filters — checking for more red blocks
+  No more red blocks on this month
+
+✅ All 4 red block(s) processed
+✅ All steps completed successfully

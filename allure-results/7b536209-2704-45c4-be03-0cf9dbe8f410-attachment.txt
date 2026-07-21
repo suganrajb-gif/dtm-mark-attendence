@@ -1,0 +1,500 @@
+✅ Step 1 — Logged in
+✅ Step 2 — Task Management clicked
+✅ Step 3 — Attendance menu opened
+✅ Step 4 — Class Attendance page loaded
+✅ Step 5 — Faculty Id selected: SHRUTHIKA THOMAS
+✅ Step 6 — Type selected: ATTENDANCE ENTRY
+✅ Step 7 — Go button clicked — Attendance calendar loaded
+✅ Step 1 — Month view activated
+  ← Navigated to: June 2026
+✅ Step 2 — First unattended month: June 2026 (30 red blocks)
+
+─── Block #1 — Present: 60% / Absent: 40% ───
+✅ Clicked: "10:30 AM - 11:30 AM
+EEE3002-DIGITAL LOGIC CIRCUITS"
+✅ "Mark Attendance" clicked
+  20 student(s) found
+  Student 1: → Absent ❌  (was present last time)
+  Student 2: → Absent ❌  (was present last time)
+  Student 3: Present (kept)
+  Student 4: → Absent ❌  (was present last time)
+  Student 5: → Absent ❌  (was present last time)
+  Student 6: Present (kept)
+  Student 7: → Absent ❌  (was present last time)
+  Student 8: → Absent ❌  (was present last time)
+  Student 9: Present (kept)
+  Student 10: Present (kept)
+  Student 11: Present (kept)
+  Student 12: Present (kept)
+  Student 13: Present (kept)
+  Student 14: Present (kept)
+  Student 15: Present (kept)
+  Student 16: → Absent ❌  (was present last time)
+  Student 17: Present (kept)
+  Student 18: Present (kept)
+  Student 19: → Absent ❌  (was present last time)
+  Student 20: Present (kept)
+  Present: 12 | Absent: 8 | Absent students: [4,8,1,5,16,19,7,2]
+  Previously absent (excluded this round): []
+✅ Bottom Save clicked
+✅ Summary modal Save clicked
+  Faculty re-selected: SHRUTHIKA THOMAS
+  Type re-selected: ATTENDANCE ENTRY
+  Go clicked — calendar loaded
+  Back on: June 2026
+✅ Calendar reloaded with filters — checking for more red blocks
+
+─── Block #2 — Present: 80% / Absent: 20% ───
+✅ Clicked: "10:30 AM - 11:30 AM
+EEE3002-DIGITAL LOGIC CIRCUITS"
+✅ "Mark Attendance" clicked
+  20 student(s) found
+  Student 1: Present (kept)
+  Student 2: Present (kept)
+  Student 3: Present (kept)
+  Student 4: Present (kept)
+  Student 5: Present (kept)
+  Student 6: → Absent ❌  (was present last time)
+  Student 7: Present (kept)
+  Student 8: Present (kept)
+  Student 9: Present (kept)
+  Student 10: → Absent ❌  (was present last time)
+  Student 11: → Absent ❌  (was present last time)
+  Student 12: Present (kept)
+  Student 13: → Absent ❌  (was present last time)
+  Student 14: Present (kept)
+  Student 15: Present (kept)
+  Student 16: Present (kept)
+  Student 17: Present (kept)
+  Student 18: Present (kept)
+  Student 19: Present (kept)
+  Student 20: Present (kept)
+  Present: 16 | Absent: 4 | Absent students: [10,6,13,11]
+  Previously absent (excluded this round): [4,8,1,5,16,19,7,2]
+✅ Bottom Save clicked
+✅ Summary modal Save clicked
+  Faculty re-selected: SHRUTHIKA THOMAS
+  Type re-selected: ATTENDANCE ENTRY
+  Go clicked — calendar loaded
+  Back on: June 2026
+✅ Calendar reloaded with filters — checking for more red blocks
+
+─── Block #3 — Present: 70% / Absent: 30% ───
+✅ Clicked: "10:30 AM - 11:30 AM
+MMM-MENTOR MENTEE MEETING"
+✅ "Mark Attendance" clicked
+  20 student(s) found
+  Student 1: → Absent ❌  (was present last time)
+  Student 2: Present (kept)
+  Student 3: Present (kept)
+  Student 4: Present (kept)
+  Student 5: Present (kept)
+  Student 6: Present (kept)
+  Student 7: Present (kept)
+  Student 8: → Absent ❌  (was present last time)
+  Student 9: Present (kept)
+  Student 10: Present (kept)
+  Student 11: Present (kept)
+  Student 12: Present (kept)
+  Student 13: Present (kept)
+  Student 14: Present (kept)
+  Student 15: → Absent ❌  (was present last time)
+  Student 16: Present (kept)
+  Student 17: Present (kept)
+  Student 18: → Absent ❌  (was present last time)
+  Student 19: → Absent ❌  (was present last time)
+  Student 20: → Absent ❌  (was present last time)
+  Present: 14 | Absent: 6 | Absent students: [8,19,18,1,15,20]
+  Previously absent (excluded this round): [10,6,13,11]
+✅ Bottom Save clicked
+✅ Summary modal Save clicked
+  Faculty re-selected: SHRUTHIKA THOMAS
+  Type re-selected: ATTENDANCE ENTRY
+  Go clicked — calendar loaded
+  Back on: June 2026
+✅ Calendar reloaded with filters — checking for more red blocks
+
+─── Block #4 — Present: 60% / Absent: 40% ───
+✅ Clicked: "10:30 AM - 11:30 AM
+EEE3002-DIGITAL LOGIC CIRCUITS"
+✅ "Mark Attendance" clicked
+  20 student(s) found
+  Student 1: Present (kept)
+  Student 2: Present (kept)
+  Student 3: Present (kept)
+  Student 4: → Absent ❌  (was present last time)
+  Student 5: → Absent ❌  (was present last time)
+  Student 6: Present (kept)
+  Student 7: Present (kept)
+  Student 8: Present (kept)
+  Student 9: → Absent ❌  (was present last time)
+  Student 10: → Absent ❌  (was present last time)
+  Student 11: → Absent ❌  (was present last time)
+  Student 12: → Absent ❌  (was present last time)
+  Student 13: → Absent ❌  (was present last time)
+  Student 14: Present (kept)
+  Student 15: Present (kept)
+  Student 16: Present (kept)
+  Student 17: → Absent ❌  (was present last time)
+  Student 18: Present (kept)
+  Student 19: Present (kept)
+  Student 20: Present (kept)
+  Present: 12 | Absent: 8 | Absent students: [9,13,17,5,10,12,11,4]
+  Previously absent (excluded this round): [8,19,18,1,15,20]
+✅ Bottom Save clicked
+✅ Summary modal Save clicked
+  Faculty re-selected: SHRUTHIKA THOMAS
+  Type re-selected: ATTENDANCE ENTRY
+  Go clicked — calendar loaded
+  Back on: June 2026
+✅ Calendar reloaded with filters — checking for more red blocks
+
+─── Block #5 — Present: 90% / Absent: 10% ───
+✅ Clicked: "10:30 AM - 11:30 AM
+LIB-Library"
+✅ "Mark Attendance" clicked
+  20 student(s) found
+  Student 1: Present (kept)
+  Student 2: Present (kept)
+  Student 3: Present (kept)
+  Student 4: Present (kept)
+  Student 5: Present (kept)
+  Student 6: → Absent ❌  (was present last time)
+  Student 7: → Absent ❌  (was present last time)
+  Student 8: Present (kept)
+  Student 9: Present (kept)
+  Student 10: Present (kept)
+  Student 11: Present (kept)
+  Student 12: Present (kept)
+  Student 13: Present (kept)
+  Student 14: Present (kept)
+  Student 15: Present (kept)
+  Student 16: Present (kept)
+  Student 17: Present (kept)
+  Student 18: Present (kept)
+  Student 19: Present (kept)
+  Student 20: Present (kept)
+  Present: 18 | Absent: 2 | Absent students: [7,6]
+  Previously absent (excluded this round): [9,13,17,5,10,12,11,4]
+✅ Bottom Save clicked
+✅ Summary modal Save clicked
+  Faculty re-selected: SHRUTHIKA THOMAS
+  Type re-selected: ATTENDANCE ENTRY
+  Go clicked — calendar loaded
+  Back on: June 2026
+✅ Calendar reloaded with filters — checking for more red blocks
+
+─── Block #6 — Present: 60% / Absent: 40% ───
+✅ Clicked: "10:30 AM - 11:30 AM
+EEE3002-DIGITAL LOGIC CIRCUITS"
+✅ "Mark Attendance" clicked
+  20 student(s) found
+  Student 1: Present (kept)
+  Student 2: → Absent ❌  (was present last time)
+  Student 3: → Absent ❌  (was present last time)
+  Student 4: → Absent ❌  (was present last time)
+  Student 5: Present (kept)
+  Student 6: Present (kept)
+  Student 7: Present (kept)
+  Student 8: Present (kept)
+  Student 9: → Absent ❌  (was present last time)
+  Student 10: → Absent ❌  (was present last time)
+  Student 11: Present (kept)
+  Student 12: Present (kept)
+  Student 13: → Absent ❌  (was present last time)
+  Student 14: → Absent ❌  (was present last time)
+  Student 15: Present (kept)
+  Student 16: Present (kept)
+  Student 17: Present (kept)
+  Student 18: Present (kept)
+  Student 19: Present (kept)
+  Student 20: → Absent ❌  (was present last time)
+  Present: 12 | Absent: 8 | Absent students: [9,3,10,13,20,14,2,4]
+  Previously absent (excluded this round): [7,6]
+✅ Bottom Save clicked
+✅ Summary modal Save clicked
+  Faculty re-selected: SHRUTHIKA THOMAS
+  Type re-selected: ATTENDANCE ENTRY
+  Go clicked — calendar loaded
+  Back on: June 2026
+✅ Calendar reloaded with filters — checking for more red blocks
+
+─── Block #7 — Present: 70% / Absent: 30% ───
+✅ Clicked: "10:30 AM - 11:30 AM
+EEE3002-DIGITAL LOGIC CIRCUITS"
+✅ "Mark Attendance" clicked
+  20 student(s) found
+  Student 1: → Absent ❌  (was present last time)
+  Student 2: Present (kept)
+  Student 3: Present (kept)
+  Student 4: Present (kept)
+  Student 5: → Absent ❌  (was present last time)
+  Student 6: Present (kept)
+  Student 7: Present (kept)
+  Student 8: Present (kept)
+  Student 9: Present (kept)
+  Student 10: Present (kept)
+  Student 11: → Absent ❌  (was present last time)
+  Student 12: Present (kept)
+  Student 13: Present (kept)
+  Student 14: Present (kept)
+  Student 15: → Absent ❌  (was present last time)
+  Student 16: → Absent ❌  (was present last time)
+  Student 17: Present (kept)
+  Student 18: → Absent ❌  (was present last time)
+  Student 19: Present (kept)
+  Student 20: Present (kept)
+  Present: 14 | Absent: 6 | Absent students: [11,15,5,16,18,1]
+  Previously absent (excluded this round): [9,3,10,13,20,14,2,4]
+✅ Bottom Save clicked
+✅ Summary modal Save clicked
+  Faculty re-selected: SHRUTHIKA THOMAS
+  Type re-selected: ATTENDANCE ENTRY
+  Go clicked — calendar loaded
+  Back on: June 2026
+✅ Calendar reloaded with filters — checking for more red blocks
+
+─── Block #8 — Present: 80% / Absent: 20% ───
+✅ Clicked: "10:30 AM - 11:30 AM
+MMM-MENTOR MENTEE MEETING"
+✅ "Mark Attendance" clicked
+  20 student(s) found
+  Student 1: Present (kept)
+  Student 2: → Absent ❌  (was present last time)
+  Student 3: Present (kept)
+  Student 4: Present (kept)
+  Student 5: Present (kept)
+  Student 6: Present (kept)
+  Student 7: Present (kept)
+  Student 8: Present (kept)
+  Student 9: Present (kept)
+  Student 10: → Absent ❌  (was present last time)
+  Student 11: Present (kept)
+  Student 12: → Absent ❌  (was present last time)
+  Student 13: Present (kept)
+  Student 14: → Absent ❌  (was present last time)
+  Student 15: Present (kept)
+  Student 16: Present (kept)
+  Student 17: Present (kept)
+  Student 18: Present (kept)
+  Student 19: Present (kept)
+  Student 20: Present (kept)
+  Present: 16 | Absent: 4 | Absent students: [12,2,14,10]
+  Previously absent (excluded this round): [11,15,5,16,18,1]
+✅ Bottom Save clicked
+✅ Summary modal Save clicked
+  Faculty re-selected: SHRUTHIKA THOMAS
+  Type re-selected: ATTENDANCE ENTRY
+  Go clicked — calendar loaded
+  Back on: June 2026
+✅ Calendar reloaded with filters — checking for more red blocks
+
+─── Block #9 — Present: 90% / Absent: 10% ───
+✅ Clicked: "10:30 AM - 11:30 AM
+EEE3002-DIGITAL LOGIC CIRCUITS"
+✅ "Mark Attendance" clicked
+  20 student(s) found
+  Student 1: Present (kept)
+  Student 2: Present (kept)
+  Student 3: Present (kept)
+  Student 4: → Absent ❌  (was present last time)
+  Student 5: Present (kept)
+  Student 6: Present (kept)
+  Student 7: Present (kept)
+  Student 8: Present (kept)
+  Student 9: → Absent ❌  (was present last time)
+  Student 10: Present (kept)
+  Student 11: Present (kept)
+  Student 12: Present (kept)
+  Student 13: Present (kept)
+  Student 14: Present (kept)
+  Student 15: Present (kept)
+  Student 16: Present (kept)
+  Student 17: Present (kept)
+  Student 18: Present (kept)
+  Student 19: Present (kept)
+  Student 20: Present (kept)
+  Present: 18 | Absent: 2 | Absent students: [9,4]
+  Previously absent (excluded this round): [12,2,14,10]
+✅ Bottom Save clicked
+✅ Summary modal Save clicked
+  Faculty re-selected: SHRUTHIKA THOMAS
+  Type re-selected: ATTENDANCE ENTRY
+  Go clicked — calendar loaded
+  Back on: June 2026
+✅ Calendar reloaded with filters — checking for more red blocks
+
+─── Block #10 — Present: 90% / Absent: 10% ───
+✅ Clicked: "10:30 AM - 11:30 AM
+LIB-Library"
+✅ "Mark Attendance" clicked
+  20 student(s) found
+  Student 1: Present (kept)
+  Student 2: Present (kept)
+  Student 3: → Absent ❌  (was present last time)
+  Student 4: Present (kept)
+  Student 5: Present (kept)
+  Student 6: Present (kept)
+  Student 7: Present (kept)
+  Student 8: Present (kept)
+  Student 9: Present (kept)
+  Student 10: → Absent ❌  (was present last time)
+  Student 11: Present (kept)
+  Student 12: Present (kept)
+  Student 13: Present (kept)
+  Student 14: Present (kept)
+  Student 15: Present (kept)
+  Student 16: Present (kept)
+  Student 17: Present (kept)
+  Student 18: Present (kept)
+  Student 19: Present (kept)
+  Student 20: Present (kept)
+  Present: 18 | Absent: 2 | Absent students: [3,10]
+  Previously absent (excluded this round): [9,4]
+✅ Bottom Save clicked
+✅ Summary modal Save clicked
+  Faculty re-selected: SHRUTHIKA THOMAS
+  Type re-selected: ATTENDANCE ENTRY
+  Go clicked — calendar loaded
+  Back on: June 2026
+✅ Calendar reloaded with filters — checking for more red blocks
+
+─── Block #11 — Present: 70% / Absent: 30% ───
+✅ Clicked: "10:30 AM - 11:30 AM
+EEE3002-DIGITAL LOGIC CIRCUITS"
+✅ "Mark Attendance" clicked
+  20 student(s) found
+  Student 1: → Absent ❌  (was present last time)
+  Student 2: → Absent ❌  (was present last time)
+  Student 3: Present (kept)
+  Student 4: → Absent ❌  (was present last time)
+  Student 5: Present (kept)
+  Student 6: Present (kept)
+  Student 7: Present (kept)
+  Student 8: Present (kept)
+  Student 9: Present (kept)
+  Student 10: Present (kept)
+  Student 11: → Absent ❌  (was present last time)
+  Student 12: Present (kept)
+  Student 13: Present (kept)
+  Student 14: Present (kept)
+  Student 15: Present (kept)
+  Student 16: Present (kept)
+  Student 17: → Absent ❌  (was present last time)
+  Student 18: → Absent ❌  (was present last time)
+  Student 19: Present (kept)
+  Student 20: Present (kept)
+  Present: 14 | Absent: 6 | Absent students: [1,2,11,17,18,4]
+  Previously absent (excluded this round): [3,10]
+✅ Bottom Save clicked
+✅ Summary modal Save clicked
+  Faculty re-selected: SHRUTHIKA THOMAS
+  Type re-selected: ATTENDANCE ENTRY
+  Go clicked — calendar loaded
+  Back on: June 2026
+✅ Calendar reloaded with filters — checking for more red blocks
+
+─── Block #12 — Present: 70% / Absent: 30% ───
+✅ Clicked: "10:30 AM - 11:30 AM
+EEE3002-DIGITAL LOGIC CIRCUITS"
+✅ "Mark Attendance" clicked
+  20 student(s) found
+  Student 1: Present (kept)
+  Student 2: Present (kept)
+  Student 3: Present (kept)
+  Student 4: Present (kept)
+  Student 5: Present (kept)
+  Student 6: → Absent ❌  (was present last time)
+  Student 7: → Absent ❌  (was present last time)
+  Student 8: Present (kept)
+  Student 9: Present (kept)
+  Student 10: → Absent ❌  (was present last time)
+  Student 11: Present (kept)
+  Student 12: Present (kept)
+  Student 13: → Absent ❌  (was present last time)
+  Student 14: Present (kept)
+  Student 15: → Absent ❌  (was present last time)
+  Student 16: Present (kept)
+  Student 17: Present (kept)
+  Student 18: Present (kept)
+  Student 19: → Absent ❌  (was present last time)
+  Student 20: Present (kept)
+  Present: 14 | Absent: 6 | Absent students: [6,7,15,19,10,13]
+  Previously absent (excluded this round): [1,2,11,17,18,4]
+✅ Bottom Save clicked
+✅ Summary modal Save clicked
+  Faculty re-selected: SHRUTHIKA THOMAS
+  Type re-selected: ATTENDANCE ENTRY
+  Go clicked — calendar loaded
+  Back on: June 2026
+✅ Calendar reloaded with filters — checking for more red blocks
+
+─── Block #13 — Present: 80% / Absent: 20% ───
+✅ Clicked: "10:30 AM - 11:30 AM
+MMM-MENTOR MENTEE MEETING"
+✅ "Mark Attendance" clicked
+  20 student(s) found
+  Student 1: Present (kept)
+  Student 2: Present (kept)
+  Student 3: → Absent ❌  (was present last time)
+  Student 4: → Absent ❌  (was present last time)
+  Student 5: → Absent ❌  (was present last time)
+  Student 6: Present (kept)
+  Student 7: Present (kept)
+  Student 8: Present (kept)
+  Student 9: Present (kept)
+  Student 10: Present (kept)
+  Student 11: Present (kept)
+  Student 12: Present (kept)
+  Student 13: Present (kept)
+  Student 14: Present (kept)
+  Student 15: Present (kept)
+  Student 16: Present (kept)
+  Student 17: Present (kept)
+  Student 18: → Absent ❌  (was present last time)
+  Student 19: Present (kept)
+  Student 20: Present (kept)
+  Present: 16 | Absent: 4 | Absent students: [3,4,18,5]
+  Previously absent (excluded this round): [6,7,15,19,10,13]
+✅ Bottom Save clicked
+✅ Summary modal Save clicked
+  Faculty re-selected: SHRUTHIKA THOMAS
+  Type re-selected: ATTENDANCE ENTRY
+  Go clicked — calendar loaded
+  Back on: June 2026
+✅ Calendar reloaded with filters — checking for more red blocks
+
+─── Block #14 — Present: 80% / Absent: 20% ───
+✅ Clicked: "10:30 AM - 11:30 AM
+EEE3002-DIGITAL LOGIC CIRCUITS"
+✅ "Mark Attendance" clicked
+  20 student(s) found
+  Student 1: Present (kept)
+  Student 2: Present (kept)
+  Student 3: Present (kept)
+  Student 4: Present (kept)
+  Student 5: Present (kept)
+  Student 6: Present (kept)
+  Student 7: Present (kept)
+  Student 8: → Absent ❌  (was present last time)
+  Student 9: Present (kept)
+  Student 10: Present (kept)
+  Student 11: → Absent ❌  (was present last time)
+  Student 12: Present (kept)
+  Student 13: Present (kept)
+  Student 14: Present (kept)
+  Student 15: Present (kept)
+  Student 16: → Absent ❌  (was present last time)
+  Student 17: Present (kept)
+  Student 18: Present (kept)
+  Student 19: Present (kept)
+  Student 20: → Absent ❌  (was present last time)
+  Present: 16 | Absent: 4 | Absent students: [20,16,11,8]
+  Previously absent (excluded this round): [3,4,18,5]
+✅ Bottom Save clicked
+✅ Summary modal Save clicked
+  Faculty re-selected: SHRUTHIKA THOMAS
+  Type re-selected: ATTENDANCE ENTRY
+  Go clicked — calendar loaded
+  Back on: June 2026
+✅ Calendar reloaded with filters — checking for more red blocks

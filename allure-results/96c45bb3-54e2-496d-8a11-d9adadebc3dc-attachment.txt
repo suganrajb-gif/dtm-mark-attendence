@@ -1,0 +1,36 @@
+✅ Step 1 — Logged in
+✅ Step 2 — Task Management clicked
+✅ Step 3 — Attendance menu opened
+✅ Step 4 — Class Attendance page loaded
+✅ Step 5 — Faculty Id selected: RAVI SHANKAR
+✅ Step 6 — Type selected: ATTENDANCE ENTRY
+✅ Step 7 — Go button clicked — Attendance calendar loaded
+✅ Step 1 — Month view activated
+  ← Navigated to: June 2026
+    Red blocks found: 4
+✅ Step 2 — First unattended month found: June 2026
+✅ Step 3 — Clicked red block: "08:00 AM - 09:00 AM - D5
+AI3461-DATA STRUCTURES LABORATORY"
+✅ Step 4 — "Mark Attendance" button clicked in popup
+  Found 20 student row(s) in attendance entry
+  Row 1: checkbox checked (present)
+  Row 2: checkbox checked (present)
+  Row 3: checkbox unchecked (absent)
+  Row 4: checkbox checked (present)
+  Row 5: checkbox unchecked (absent)
+  Row 6: checkbox checked (present)
+  Row 7: checkbox checked (present)
+  Row 8: checkbox unchecked (absent)
+  Row 9: checkbox checked (present)
+  Row 10: checkbox checked (present)
+  Row 11: checkbox checked (present)
+  Row 12: checkbox unchecked (absent)
+  Row 13: checkbox unchecked (absent)
+  Row 14: checkbox checked (present)
+  Row 15: checkbox checked (present)
+  Row 16: checkbox checked (present)
+  Row 17: checkbox checked (present)
+  Row 18: checkbox checked (present)
+  Row 19: checkbox checked (present)
+  Row 20: checkbox unchecked (absent)
+✅ Step 5 — Attendance marked randomly and Saved

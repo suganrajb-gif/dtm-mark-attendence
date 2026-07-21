@@ -1,0 +1,39 @@
+✅ Step 1 — Logged in
+✅ Step 2 — Task Management clicked
+✅ Step 3 — Attendance menu opened
+✅ Step 4 — Class Attendance page loaded
+✅ Step 5 — Faculty Id selected: RAVI SHANKAR
+✅ Step 6 — Type selected: ATTENDANCE ENTRY
+✅ Step 7 — Go button clicked — Attendance calendar loaded
+✅ Step 1 — Month view activated
+  ← Navigated to: June 2026
+    Red blocks found: 4
+✅ Step 2 — First unattended month found: June 2026
+✅ Step 3 — Clicked red block: "08:00 AM - 09:00 AM - D5
+AI3461-DATA STRUCTURES LABORATORY"
+✅ Step 4 — "Mark Attendance" button clicked in popup
+  Found 20 student toggle(s)
+  Student 1: Present (kept)
+  Student 2: Present (kept)
+  Student 3: Present (kept)
+  Student 4: Present (kept)
+  Student 5: Present (kept)
+  Student 6: Present (kept)
+  Student 7: → Absent ❌
+  Student 8: Present (kept)
+  Student 9: Present (kept)
+  Student 10: → Absent ❌
+  Student 11: Present (kept)
+  Student 12: Present (kept)
+  Student 13: Present (kept)
+  Student 14: Present (kept)
+  Student 15: Present (kept)
+  Student 16: Present (kept)
+  Student 17: Present (kept)
+  Student 18: → Absent ❌
+  Student 19: Present (kept)
+  Student 20: → Absent ❌
+✅ Step 5a — Bottom Save button clicked
+✅ Step 5b — Attendance Summary modal Save clicked
+✅ Step 5 — Attendance marked randomly and fully saved
+✅ All steps completed successfully
