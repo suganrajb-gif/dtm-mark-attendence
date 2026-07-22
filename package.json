@@ -2,8 +2,8 @@
   "name": "dtm-attendance-mark",
   "type": "module",
   "scripts": {
-    "test": "playwright test --workers=1",
-    "test:headed": "playwright test --headed --workers=1",
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
     "test:debug": "playwright test --debug"
   },
   "devDependencies": {
